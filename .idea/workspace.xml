@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77e45e47-8f6a-4018-99de-05e3084bd8ee" name="Default Changelist" comment="" />
+    <list default="true" id="77e45e47-8f6a-4018-99de-05e3084bd8ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson22/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson22/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson22/TestStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ZaurArray/META-INF/ZaurArray.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Wmmd5sL9wh37wp5365OqBSbjKw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,24 +35,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.L21DZ">
-    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson18.ArraySort" />
-      <module name="ZaurArray" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="DZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson19.DZ" />
       <module name="ZaurArray" />
@@ -79,12 +81,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson18.MinMax" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson22.Test" />
       <module name="ZaurArray" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson18.*" />
+          <option name="PATTERN" value="Lesson22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson22.TestStudent" />
+      <module name="ZaurArray" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestStudent" />
         <item itemvalue="Application.L21DZ" />
         <item itemvalue="Application.DZ" />
         <item itemvalue="Application.DZ_Sorting" />
-        <item itemvalue="Application.MinMax" />
-        <item itemvalue="Application.ArraySort" />
       </list>
     </recent_temporary>
   </component>
@@ -128,25 +143,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="275" key="GridCell.Tab.0.bottom" timestamp="1580199707438">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1878" height="279" key="GridCell.Tab.0.bottom" timestamp="1580896600450">
+      <screen x="0" y="0" width="1920" height="1047" />
     </state>
     <state width="1878" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580199707438" />
-    <state width="1878" height="275" key="GridCell.Tab.0.center" timestamp="1580199707438">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1878" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1047@0.0.1920.1047" timestamp="1580896600450" />
+    <state width="1878" height="279" key="GridCell.Tab.0.center" timestamp="1580896600449">
+      <screen x="0" y="0" width="1920" height="1047" />
     </state>
     <state width="1878" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580199707438" />
-    <state width="1878" height="275" key="GridCell.Tab.0.left" timestamp="1580199707438">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1878" height="279" key="GridCell.Tab.0.center/0.0.1920.1047@0.0.1920.1047" timestamp="1580896600449" />
+    <state width="1878" height="279" key="GridCell.Tab.0.left" timestamp="1580896600447">
+      <screen x="0" y="0" width="1920" height="1047" />
     </state>
     <state width="1878" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580199707438" />
-    <state width="1878" height="275" key="GridCell.Tab.0.right" timestamp="1580199707438">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1878" height="279" key="GridCell.Tab.0.left/0.0.1920.1047@0.0.1920.1047" timestamp="1580896600447" />
+    <state width="1878" height="279" key="GridCell.Tab.0.right" timestamp="1580896600450">
+      <screen x="0" y="0" width="1920" height="1047" />
     </state>
     <state width="1878" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580199707438" />
-    <state x="443" y="97" width="1024" height="843" key="SettingsEditor" timestamp="1580197843601">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1878" height="279" key="GridCell.Tab.0.right/0.0.1920.1047@0.0.1920.1047" timestamp="1580896600450" />
+    <state x="443" y="98" width="1024" height="843" key="SettingsEditor" timestamp="1580731716710">
+      <screen x="0" y="0" width="1920" height="1047" />
     </state>
     <state x="443" y="97" width="1024" height="843" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580197843601" />
+    <state x="443" y="98" key="SettingsEditor/0.0.1920.1047@0.0.1920.1047" timestamp="1580731716710" />
+    <state x="643" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1580731588959">
+      <screen x="0" y="0" width="1920" height="1047" />
+    </state>
+    <state x="643" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1047@0.0.1920.1047" timestamp="1580731588959" />
   </component>
 </project>
